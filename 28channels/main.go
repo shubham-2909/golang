@@ -35,4 +35,5 @@ func main() {
 	}(myCh, wg)
 
 	wg.Wait()
+	// added comment
 }
